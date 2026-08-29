@@ -1,0 +1,8 @@
+# Never commit private keys
+*.pem
+*.ppk
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
